@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+
+# 本地修改前备份，不提交到GitHub
+.acm-originals-20261007/

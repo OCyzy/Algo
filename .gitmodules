@@ -1,0 +1,6 @@
+[submodule "AlgoNote"]
+	path = AlgoNote
+	url = https://github.com/itcharge/AlgoNote.git
+[submodule "hello-algo"]
+	path = hello-algo
+	url = https://github.com/krahets/hello-algo.git
